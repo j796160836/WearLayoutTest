@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<color name="color_primary">#00AED8</color>
+
+	<color name="action_color">#4e6cef</color>
+	<color name="color_primary_dark">#2a36b1</color>
+
+	<color name="layout_list_header_title_text">#00AED8</color>
+	<color name="layout_list_item_text">#FFFFFF</color>
+
+	<color name="background_color">#4b4b4b</color>
+</resources>

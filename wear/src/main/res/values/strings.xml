@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">WearLayoutTest</string>
+	<string name="press_button">Press Button</string>
+
+	<string name="shuffle">Shuffle</string>
+	<string name="loading">Loading</string>
+	<string name="empty_default_message">No Item.</string>
+	<string name="empty_playlist_title">No Item.</string>
+	<string name="empty_library_introduce"></string>
+</resources>
