@@ -1,6 +1,11 @@
 # WearLayoutTest
 BoxInsetLayout layout bug in Android Wear
 
+Video demo:  
+https://youtu.be/7sh7SmtuZkY
+
+----
+
 I found the bug when using BoxInsetLayout wrapped with ViewGroup (FrameLayout/RelativeLayout).
 It will calculate the wrong window insets.
 (Check the `layout_bug` branch for details)
